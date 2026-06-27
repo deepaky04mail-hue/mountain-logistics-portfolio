@@ -48,6 +48,9 @@ The dataset contains 500 shipment records with information including:
 - Delivery Status Distribution
 - Top Companies by Profit
 
+  <img width="1189" height="662" alt="Screenshot 2026-06-27 at 11 51 06 AM" src="https://github.com/user-attachments/assets/93b3a2fe-4bb3-45fc-8b42-332787800302" />
+
+
 ### Operational Analysis
 
 - Weather Impact Analysis
@@ -56,6 +59,9 @@ The dataset contains 500 shipment records with information including:
 - Delay Category Distribution
 - Risk vs Profit Analysis
 - Profit Category Distribution
+
+  <img width="1261" height="664" alt="Screenshot 2026-06-27 at 11 51 45 AM" src="https://github.com/user-attachments/assets/88af34d6-6bff-41be-941e-b995f9cc9865" />
+
 
 ---
 
