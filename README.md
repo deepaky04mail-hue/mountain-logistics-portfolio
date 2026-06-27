@@ -17,6 +17,19 @@ The dashboard allows users to filter results by mountain region, company, weathe
 
 ---
 
+## Skills Demonstrated
+
+-  SQL
+-  Data Cleaning
+-  Data Aggregation
+-  KPI Analysis
+-  Dashboard Design
+-  Business Intelligence
+-  Data Visualization
+-  Storytelling
+
+---
+
 ## Dataset
 
 The dataset contains 500 shipment records with information including:
