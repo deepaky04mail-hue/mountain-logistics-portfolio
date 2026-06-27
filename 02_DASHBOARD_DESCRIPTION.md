@@ -18,6 +18,8 @@ It includes:
 - Top Companies by Profit
 
 Interactive filters allow users to explore results by region, company, weather condition, and logistics upgrade.
+<img width="1189" height="662" alt="Screenshot 2026-06-27 at 11 51 06 AM" src="https://github.com/user-attachments/assets/3e9c40f0-ea8b-4b92-89d9-a5069f219f99" />
+
 
 ---
 
@@ -35,10 +37,5 @@ Visualizations include:
 - Profit Category Distribution
 
 These charts help identify operational patterns that influence profitability and delivery performance.
+<img width="1261" height="664" alt="Screenshot 2026-06-27 at 11 51 45 AM" src="https://github.com/user-attachments/assets/c8409788-3b7c-49aa-9efe-f8c5029a92eb" />
 
-
-
-<img width="1189" height="662" alt="Screenshot 2026-06-27 at 11 51 06 AM" src="https://github.com/user-attachments/assets/25769aef-67e7-4172-84bb-628c52299071" />
-
-
-<img width="1261" height="664" alt="Screenshot 2026-06-27 at 11 51 45 AM" src="https://github.com/user-attachments/assets/0309e12a-9cd8-4629-bc10-9b6c61ac667c" />
